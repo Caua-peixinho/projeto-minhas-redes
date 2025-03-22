@@ -16,3 +16,25 @@ body {
     background-size: cover;
     background-attachment: fixed;
 }
+
+section#celular {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50% ,-50%);
+
+    height: 700px;
+    width: 311px;
+    background: url('../imagens/celular.png') top center no-repeat;
+    background-size: cover;
+}
+
+iframe#tela {
+    position: relative;
+    top: 73px;
+    left: 32px;
+    width: 250px;
+    height: 542px;
+
+    border-radius: 6%;
+}
