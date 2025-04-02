@@ -21,10 +21,11 @@ section#celular {
     position: absolute;
     top: 50%;
     left: 50%;
-    transform: translate(-50% ,-50%);
+    transform: translate(-50%, -50%);
 
     height: 700px;
     width: 311px;
+    
     background: url('../imagens/celular.png') top center no-repeat;
     background-size: cover;
 }
